@@ -39,13 +39,6 @@ A US bike-sharing provider BoomBikes has recently suffered considerable dips in 
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
 ## Contact
 Created by [@ShenShaji] - feel free to contact me!
 
